@@ -1,0 +1,29 @@
+body{
+    background-color:#748A9B;
+}
+.main-container{
+    width: 80%;
+    margin: auto;
+}
+
+.column-container{
+    display: table;
+}
+
+.column{
+    display: table-cell;
+}
+
+.main-container{
+    background-color: rgb(149, 188, 201);
+}
+
+header{
+    background-image:url(h1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header nav{
+    float: right;
+}
