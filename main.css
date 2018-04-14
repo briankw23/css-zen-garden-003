@@ -17,3 +17,13 @@ body{
 .main-container{
     background-color: rgb(149, 188, 201);
 }
+
+header{
+    background-image:url(h1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header nav{
+    float: right;
+}
